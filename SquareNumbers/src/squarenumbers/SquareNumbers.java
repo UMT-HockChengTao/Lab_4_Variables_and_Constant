@@ -33,8 +33,6 @@ public class SquareNumbers {
         System.out.printf("\nDifference of the squares (first number squared "
                 + "minus the second number squared): %d \n", diff);
         
-        
-        
     }
     
 }
