@@ -14,7 +14,8 @@ public class CircleCalculation {
     public static void main(String[] args) {
         double PI = 3.14159; //global constant of PI value
         
-        String radiusInput = JOptionPane.showInputDialog("Enter the radius of the circle (cm)"); //Prompt user to input radius
+        String radiusInput = JOptionPane.showInputDialog("Enter the radius of the circle (cm)"); 
+        //Prompt user to input radius
         
         if (radiusInput == null)
             return;
